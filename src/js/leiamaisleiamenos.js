@@ -31,6 +31,7 @@ function leiaMais(){
        btnleia.innerHTML="LER MAIS"
        textepage2.style.background ='transparent'
         
+       
         
     } else {
             pontos.style.display = 'none'
